@@ -8,8 +8,9 @@ import email
 from email.header import decode_header
 
 ########################################## SETUP ##########################################
-# To setup a google app password vist: https://support.google.com/accounts/answer/185833?hl=de
+# To setup a google app password visit: https://support.google.com/accounts/answer/185833?hl=de
 
+# check if user information is already given
 if os.path.exists("setup/user_info.txt") == False and os.path.exists("setup/keywords.txt") == False:
     # create setup directory
     os.mkdir("setup", exist_ok = True)
