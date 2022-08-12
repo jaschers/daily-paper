@@ -1,6 +1,6 @@
 # Daily Paper
 <img src="https://github.com/jaschers/daily-paper/blob/main/logo/logo.png" width="500">
-Daily Paper searches and opens papers on [arXiv](https://arxiv.org/) that were uploaded on the previous day. The papers will be selected, opened and documented based on the keywords you specify.
+Daily Paper searches and opens papers on arXiv that were uploaded on the previous day. The papers will be selected, opened and documented based on the keywords you specify.
 
 ## Requirements
 You need:
