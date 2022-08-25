@@ -64,7 +64,7 @@ imap.login(USERNAME, PASSWORD)
 
 status, messages = imap.select("INBOX")
 # number of top emails to fetch
-N = 100
+N = 500
 # total number of emails
 messages = int(messages[0])
 
