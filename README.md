@@ -4,14 +4,13 @@ Daily Paper searches and opens papers on arXiv that were uploaded on the previou
 
 ## Requirements
 You need:
-* Python 3.8.5 or higher
-* an arXiv account (register [here](https://arxiv.org/login))
-* a gmail account (register [here](https://www.google.com/intl/en/gmail/about/))
+* Python 3.6 or higher
+* a gmail account (register [here](https://www.google.com/intl/en/gmail/about/) for free)
+* a subscription to the arXiv email alerting service (register [here](https://arxiv.org/help/subscribe) for free)
 
 ## Setup
 * clone the repository into your preferred folder `git clone git@github.com:jaschers/daily-paper.git`
 * create a app password for your gmail account (see [here](https://support.google.com/accounts/answer/185833?hl=en) for instructions)
-* sign up for arXiv daily to receive an email from arXiv each day
 * run `python main.py`
   * enter your google email address
   * enter your google app password
