@@ -16,6 +16,8 @@ add Cosmology and Nongalactic Astrophysics
 add High Energy Astrophysical Phenomena
 ```
 
+Note: before you proceed with the next steps, you need to wait (usually until the next morning) until you've received the first email from arXiv with a list of the most recent papers.
+
 ## Setup
 * clone the repository into your preferred folder `git clone git@github.com:jaschers/daily-paper.git`
 * create a app password for your gmail account (see [here](https://support.google.com/accounts/answer/185833?hl=en) for instructions)
